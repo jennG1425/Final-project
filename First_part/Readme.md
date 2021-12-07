@@ -5,13 +5,14 @@ The work made with TBNN in this project is presented, first of all we give an in
 
 The chages were: 
 
-|                 | Original Code | Configuration 1 | Configuration 2 | Configuration 3 |
-|:---------------:|:-------------:|:---------------:|:---------------:|:---------------:|
-|      Layers     |       2       |        1        |        10       |        20       |
-|      Nodes      |       20      |        15       |        20       |        10       |
-| Maximum  epochs |      2000     |       4000      |       5000      |       4000      |
-| Minimum  epochs |      1000     |       2000      |       2000      |       1000      |
-| Split  fraction |      0.8      |       0.8       |       0.9       |       0.7       |
+|                   |    Original Code   |          Configuration 1          |          Configuration 2          |          Configuration 3          |
+|:-----------------:|:------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+|       Layers      |          2         |                 1                 |                 10                |                 20                |
+|       Nodes       |         20         |                 15                |                 20                |                 10                |
+|  Maximum  epochs  |        2000        |                4000               |                5000               |                4000               |
+|  Minimum  epochs  |        1000        |                2000               |                2000               |                1000               |
+|  Split  fraction  |         0.8        |                0.8                |                0.9                |                0.7                |
+| Jupyter  notebook | code_for_trainning | Code_for_training_1_Configuration | Code_for_training_2_Configuration | Code_for_training_3_Configuration |
 
 In summary, we made 3 configurations in the first one we decreased the number of layers and in the other ones we increased to 10 and 20 layers and also we made changes in the number of neurons per layer, in some cases we decrease the neurons and in others we increase the nodes. 
 
