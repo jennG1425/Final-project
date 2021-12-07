@@ -1,5 +1,7 @@
 # Final-project _ First Part 
-This is the first part of the final project of the Turbulence with AI subject with the professor [Dr. Guillermo Barrios] https://github.com/AltamarMx/ai_fluidmechanics. 
+This is the first part of the final project of the Turbulence with AI subject with the professor [Dr. Guillermo Barrios] https://github.com/AltamarMx/ai_fluidmechanics.
+
+The repository was made together with [Raymundo Cortés]https://github.com/Raynava7. 
 
 The work made with TBNN in this project is presented, first of all we give an introduction to TBNN, then we used a python code provided by [tbnn] https://github.com/tbnn/tbnn github repository, we proposed 3 changes in the original code. 
 
